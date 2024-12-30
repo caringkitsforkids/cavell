@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Request__c</fullName>
+    <deprecated>false</deprecated>
+    <description>-</description>
+    <externalId>false</externalId>
+    <inlineHelpText>-</inlineHelpText>
+    <label>Request</label>
+    <referenceTo>Request__c</referenceTo>
+    <relationshipLabel>Line Items</relationshipLabel>
+    <relationshipName>LineItems</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <securityClassification>Internal</securityClassification>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

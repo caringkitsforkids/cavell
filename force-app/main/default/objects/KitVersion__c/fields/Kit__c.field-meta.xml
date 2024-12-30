@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Kit__c</fullName>
+    <deprecated>false</deprecated>
+    <description>-</description>
+    <externalId>false</externalId>
+    <inlineHelpText>-</inlineHelpText>
+    <label>Kit</label>
+    <referenceTo>Kit__c</referenceTo>
+    <relationshipLabel>Versions</relationshipLabel>
+    <relationshipName>Versions</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <securityClassification>Public</securityClassification>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>true</writeRequiresMasterRead>
+</CustomField>

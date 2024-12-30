@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>(Cavell) Standard User</label>
+    <permissionSets>Cavell_Create_Account</permissionSets>
+    <permissionSets>Cavell_Create_Contact</permissionSets>
+    <permissionSets>Cavell_Create_Opportunity</permissionSets>
+    <permissionSets>Cavell_Create_Risk</permissionSets>
+    <permissionSets>Cavell_Edit_Opportunity</permissionSets>
+    <permissionSets>Cavell_Edit_Risk</permissionSets>
+    <permissionSets>Cavell_IdentityEnabled</permissionSets>
+    <permissionSets>Cavell_Read_Account</permissionSets>
+    <permissionSets>Cavell_Read_Contact</permissionSets>
+    <permissionSets>Cavell_Read_Kit</permissionSets>
+    <permissionSets>Cavell_Read_Opportunity</permissionSets>
+    <permissionSets>Cavell_Read_Product</permissionSets>
+    <permissionSets>Cavell_Read_Report</permissionSets>
+    <permissionSets>Cavell_Read_Request</permissionSets>
+    <permissionSets>Cavell_Read_Risk</permissionSets>
+    <permissionSets>Cavell_SendEmail</permissionSets>
+    <permissionSets>Cavell_ViewAll_Kits</permissionSets>
+    <permissionSets>Cavell_ViewAll_Products</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
